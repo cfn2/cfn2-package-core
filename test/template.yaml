@@ -1,0 +1,13 @@
+Resources:
+  file:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: test.js
+  package_dir:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ..
+  dir:
+    Type: AWS::AppSync::GraphQLSchema
+    Properties:
+      DefinitionS3Location: .
