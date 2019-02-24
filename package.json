@@ -1,6 +1,6 @@
 {
   "name": "cfn-package-core",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Core library of the cfn-package",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
