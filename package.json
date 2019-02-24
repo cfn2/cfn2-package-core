@@ -13,11 +13,10 @@
     "jszip-glob": "0.0.1",
     "npm-lambda-pack": "^0.1.5",
     "read-json": "^1.0.3",
-    "run-parallel": "^1.1.9",
-    "xml2js": "^0.4.19"
+    "run-parallel": "^1.1.9"
   },
   "devDependencies": {
-    "aws4-with-assume-role": "^0.1.1",
+    "aws-sdk": "^2.409.0",
     "tape": "^4.10.1"
   },
   "homepage": "https://github.com/nak2k/node-cfn-package-core",
