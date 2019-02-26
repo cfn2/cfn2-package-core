@@ -1,10 +1,10 @@
 {
-  "name": "cfn-package-core",
+  "name": "@cfn2/package-core",
   "version": "0.2.1",
-  "description": "Core library of the cfn-package",
+  "description": "Core library of the @cfn2/package",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
-    "url": "https://github.com/nak2k/node-cfn-package-core/issues"
+    "url": "https://github.com/cfn2/cfn2-package-core/issues"
   },
   "dependencies": {
     "cfn-read-template": "0.0.2",
@@ -19,7 +19,7 @@
     "aws-sdk": "^2.409.0",
     "tape": "^4.10.1"
   },
-  "homepage": "https://github.com/nak2k/node-cfn-package-core",
+  "homepage": "https://github.com/cfn2/cfn2-package-core",
   "keywords": [
     "aws",
     "cloudformation",
@@ -29,7 +29,7 @@
   "main": "lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nak2k/node-cfn-package-core.git"
+    "url": "git+https://github.com/cfn2/cfn2-package-core.git"
   },
   "scripts": {
     "prepublishOnly": "npm test",

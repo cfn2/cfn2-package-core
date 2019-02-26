@@ -1,11 +1,11 @@
-# cfn-package-core
+# @cfn2/package-core
 
-The core package of [cfn-package](https://github.com/nak2k/node-cfn-package).
+The core package of [@cfn2/package](https://github.com/cfn2/cfn2-package).
 
 ## Installation
 
 ```
-npm i cfn-package-core
+npm i @cfn2/package-core
 ```
 
 ## License
