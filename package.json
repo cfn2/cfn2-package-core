@@ -22,6 +22,7 @@
   "homepage": "https://github.com/cfn2/cfn2-package-core",
   "keywords": [
     "aws",
+    "cfn2",
     "cloudformation",
     "sam"
   ],
