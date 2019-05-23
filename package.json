@@ -1,6 +1,6 @@
 {
   "name": "@cfn2/package-core",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Core library of the @cfn2/package",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
